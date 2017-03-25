@@ -17,7 +17,7 @@ spring:
         type: com.zaxxer.hikari.HikariDataSource
         username: montrichard-admin
         password: 1234
-        url: jdbc:postgresql://127.0.0.1:5432/bisaya-production
+        url: jdbc:postgresql://127.0.0.1:5432/bisaya-productions
         driver-class-name: org.postgresql.Driver
 server:
     port: 9003
